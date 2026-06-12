@@ -36,21 +36,20 @@ This project is ideal for beginners to understand how classes interact in a real
 
 ##  Project Structure
 
-ATMInterface.java
-│
-├── BankAccount Class
-│ ├── accountHolder
-│ ├── balance
-│ ├── deposit()
-│ └── withdraw()
-│
-├── ATM Class
-│ ├── showMenu()
-│ └── user interaction logic
-│
-└── Main Class (ATMInterface)
-└── Program execution starts here
-
+ATMInterface.java  
+│  
+├── BankAccount Class  
+│   ├── accountHolder  
+│   ├── balance  
+│   ├── deposit()  
+│   └── withdraw()  
+│  
+├── ATM Class  
+│   ├── showMenu()  
+│   └── user interaction logic  
+│  
+└── Main Class (ATMInterface)  
+    └── Program execution starts here  
 ---
 
 ##  Learning Outcomes
